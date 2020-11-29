@@ -1,6 +1,6 @@
 Feature: Check the Search Page functionality
 
-
+#Team lead has made chages to the search functionality-->
 
 # User story - 1
 
